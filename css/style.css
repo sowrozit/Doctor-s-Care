@@ -1,0 +1,322 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+.container1{
+	height: auto;
+	width: 100%;
+}
+
+.img-bound
+{
+	height: 10%;
+	width: 20%;
+}
+
+.upperportion{
+	height: 90%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+
+.service{
+	width: 100%;
+	height: 5%;
+	position: relative;
+	float: left;
+}
+
+.search{
+	width: 100%;
+	height: 5%;
+	position: relative;
+	float: left;
+}
+
+.find_doctor
+{
+	margin-left: 26%;
+}
+
+.container2
+{
+	height: 100%;
+	width: 100%;
+}
+
+.login
+{
+	height: 50%;
+	width: 40%;
+	margin-top: 10%;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.full
+{
+	width: 100%;
+}
+
+.emergency
+{
+	height: 30%;
+	width: 100%;
+}
+
+.ambulance
+{
+	float: left;
+	width: 50%;
+}
+
+.blood_bank
+{
+	float: left;
+	width: 50%;
+}
+
+.margin
+{
+	margin-left: 20%;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .footer_section {
+	width: 100%;
+	margin-top: 15px;
+	min-height: 50px;
+	float: left;
+}
+
+.footer_section p {
+	text-align: center;
+	font-size: 14px;
+	line-height: 45px;
+	color: #fff;
+}
+
+.search_result
+{
+	float: left;
+	width: 40%;
+	margin-left: 10%;
+}
+
+.search_filter
+{
+	float: left;
+	width: 50%;
+}
+
+.details
+{
+	height: 30%;
+	margin-bottom: 6%;
+}
+
+.details:hover
+{
+	color:  #660000
+}
+
+.back
+{
+	height: 80%;
+}
+
+.chembar
+{
+	height: 20%;
+}
+
+.find_filter
+{
+	margin-left: 20%;
+	margin-top: 10%;
+}
+
+.image
+{
+	float: left;
+}
+
+.description
+{
+	float: left;
+}
+
+.padding
+{
+	padding-top: 3%;
+	padding-left: 5%;
+}
+
+.padding1
+{
+	padding-top: .7%;
+	padding-left: 20%;
+}
+
+.white-font
+{
+	color: white;
+	font-size: 10px;
+}
+
+a.profile:link, a.profile:visited {
+    background-color: #0066ff;
+    color: white;
+    line-height: 0.5em;
+    padding: 14px 25px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.profile:hover, a.profile:active {
+    background-color: #00CCCC	;
+}
+
+#searchtitle{
+	width: 100%; padding-left: 10%; padding-top: 1%; background: #fff;
+}
+#searchtitle:hover{
+	background: #00CCCC;
+}
+
+.boxes
+{
+	display: none;
+}
+
+.button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.logout-link
+{
+	display: block;
+}
+
+.button4 {border-radius: 12px;}
+
+hr.hr.style5 {
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+
+hr.style13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+hr.style18 { 
+  height: 30px; 
+  border-style: solid; 
+  border-color: #8c8b8b; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px; 
+} 
+
+hr.style18:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: #8c8b8b; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+
+.br_less_height
+{
+	display: block; 
+	content: ''; 
+	margin-top: 0;
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid rgb(77,182,172);
+    padding: 20px; 
+    width: 40%;
+    height: 60%; 
+}
+
+
+a.footer:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a.footer:visited {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+a.footer:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a.footer:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.green{
+    background-color:green; 
+    display:block;
+}
+.red{
+    background-color:red;   
+    display:block;
+}
+
+
+#indicator{
+    width:20px;
+    height:20px;
+    display:block;
+    border-radius:10px;
+}
+
+
+.appoint_div
+{
+	padding: 3%;
+	margin-top: 3%;
+	margin-left: 30%;
+	margin-right: 32%;
+	border-radius: 20px;
+}
+
+.logo_size
+{
+	height: 100%;
+	width: auto;
+}

@@ -1,0 +1,53 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+.container1{
+	height: auto;
+	width: 100%;
+}
+th{
+	color:yellow;
+}
+.highlight{
+	font-size: 20px;
+	font: bold;
+}
+p:hover{
+	color: yellow;
+}
+
+a.footer:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a.footer:visited {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+a.footer:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a.footer:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.footer_section {
+	width: 100%;
+	margin-top: 15px;
+	min-height: 50px;
+	float: left;
+}
+
+.footer_section p {
+	text-align: center;
+	font-size: 14px;
+	line-height: 45px;
+	color: #fff;
+}

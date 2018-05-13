@@ -1,0 +1,83 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+
+
+.body
+{
+	background-color: white;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.regi
+{
+	margin-top: 4%;
+	width: 60%;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+
+.speciality
+{
+	width: 95%;
+	margin-left: 5%; 
+}
+
+.custom_margin
+{
+	
+	width: 94%;
+	margin-left: 6%; 
+}
+
+.custom_margin2
+{
+	
+	width:95%;
+	margin-left: 5%; 
+}
+.custom_margin3
+{
+	
+	width:92%;
+	margin-left: 8%; 
+}
+
+.custom_margin4
+{
+	
+	width:98%;
+	margin-left: 2%; 
+}
+.custom_margin5
+{
+	
+	width:93%;
+	margin-left: 7%; 
+}
+
+
+.center-btn { text-align: center }
+
+
+
+.green{
+    background-color:green; 
+    display:block;
+}
+.red{
+    background-color:red;   
+    display:block;
+}
+
+
+#indicator{
+    width:20px;
+    height:20px;
+    display:block;
+    border-radius:10px;
+}
